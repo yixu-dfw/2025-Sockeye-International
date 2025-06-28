@@ -1,0 +1,10 @@
+name: nn_forecast
+title:
+username: yi-xu-dfw
+account: yi-xu-dfw
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14199362
+bundleId: 9917880
+url: https://yi-xu-dfw.shinyapps.io/nn_forecast/
+version: 1

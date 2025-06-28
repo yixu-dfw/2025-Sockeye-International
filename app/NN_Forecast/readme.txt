@@ -1,0 +1,1 @@
+To run app, open RStudio, click Run App, choose the clean_data.csv file.clean_file has both the brood table and the escapement.
